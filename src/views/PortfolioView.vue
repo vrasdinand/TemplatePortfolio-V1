@@ -10,17 +10,17 @@ export default {
           imageUrl: 'portfolio_v2',
           status: 'My personal website, I created this website to display my profile, skills and projects. As well as my place to try new technology.',
           tech: 'VueJS 3, Tailwind',
-          github: 'https://github.com/rakha-elctrnx/Portofolio-v2',
-          demo: 'https://bagasrakha.netlify.app/'
+          github: 'https://github.com/vrasdinand/TemplatePortfolio.git',
+          demo: 'https://portofoliovradinand.netlify.app/'
         },
         {
           id: 2,
-          name: 'Sahabat Muslim',
-          imageUrl: 'sahabatmuslim',
-          status: 'A website that has a responsive display to make it easier for Muslims to read the Quran from anywhere.',
+          name: 'Simklinik',
+          imageUrl: 'Simklinik',
+          status: 'A website that has a responsive display to make it easier for Clinic Management System.',
           tech: 'VueJS 3, Tailwind',
-          github: 'https://github.com/rakha-elctrnx/muslim-companion',
-          demo: 'https://sahabat-muslim.netlify.app/'
+          github: 'null',
+          demo: 'null'
         },
         {
           id: 3,
@@ -48,6 +48,42 @@ export default {
           tech: 'Codeigniter 3, Bootstrap',
           github: 'null',
           demo: 'null'
+        },
+        {
+          id: 6,
+          name: 'HRIS Web Application',
+          imageUrl: 'hrisweb',
+          status: 'Dashboard Application Web Human Resources Information System.',
+          tech: 'Laravel 8, Bootstrap',
+          github: 'null',
+          demo: 'null'
+        },
+        {
+          id: 7,
+          name: 'HRIS Android Application',
+          imageUrl: 'hrisapp',
+          status: 'Android Mobile Application Human Resources Information System.',
+          tech: 'React Native, React Js',
+          github: 'null',
+          demo: 'null'
+        },
+        {
+          id: 8,
+          name: 'Farmasi Super APP',
+          imageUrl: 'farmasisuperapp',
+          status: 'Sistem Management Farmasi untuk Monotirong Resep Obat,Farmasi Klinins,etc.',
+          tech: 'React Native, React Js',
+          github: 'null',
+          demo: 'https://bit.ly/3sdl6lD'
+        },
+        {
+          id: 9,
+          name: 'An-ESO',
+          imageUrl: 'anesoap',
+          status: 'Sistem Management Monitoring Efek Samping Obat yang terintegrasi dengan laporan E-MESO BPOM',
+          tech: 'React Native, React Js',
+          github: 'null',
+          demo: 'https://bit.ly/3GD7DY8'
         }
       ]
     };
